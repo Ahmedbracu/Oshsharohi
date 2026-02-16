@@ -1,0 +1,11 @@
+{
+    "name": "oshi",
+    "version": "1.0.0",
+    "description": "OSHI Website",
+    "scripts": {
+        "dev": "live-server --port=3000 --host=0.0.0.0 --no-browser"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
